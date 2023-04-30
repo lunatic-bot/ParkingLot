@@ -8,8 +8,11 @@ Here I used sqlite3 for storing and fetching the parking lot. Sqlite3 is an in-m
 
 Script takes one input and one output as registration number of vehicle. 
 For eg - 
-if tou want to assign a parking slot to a vehicle : python parkinglot.py -i 9854
-if tou want to get the assigned parking slot for a vehicle : python parkinglot.py -o 9854
+
+if you want to assign a parking slot to a vehicle : python parkinglot.py -i 9854
+
+if you want to get the assigned parking slot for a vehicle : python parkinglot.py -o 9854
+
 for help : python parkingslot.py -h
 
 
